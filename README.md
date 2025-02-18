@@ -6,7 +6,7 @@
 
 ---
 
-<p align="center">
+<p align="center"; text-align="center";>
 ## 🚀 About Me
 🔹 **Cyber Security Specialist | Ethical Hacker | Frontend Developer**  
 🔹 Expert in **Facebook Security, Forex/Crypto Trading**  
