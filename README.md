@@ -1,15 +1,10 @@
-# Hello, I'm anonwincy! 👋
 
-```ascii
-  _____                      _   _       _                     
- |_   _|                    | | | |     (_)                    
-   | |  _ __  _ __  ___  ___| |_| |_ ___ _  ___  _ __  ___  ___ 
-   | | | '_ \| '_ \/ __|/ _ \ __| __/ _ \ |/ _ \| '_ \/ __|/ _ \
-  _| |_| | | | | | \__ \  __/ |_| ||  __/ | (_) | | | \__ \  __/
- |_____|_| |_|_| |_|___/\___|\__|\__\___|_|\___/|_| |_|___/\___|
-```
+<h1 align="center">👾 Hey, I'm anonwincy! </h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif?cid=790b7611xqzgqs8kyw15df7vuwnda0bhkyzm4joejav1llwu&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400px">
+</p>
 
-![Header](https://media.giphy.com/media/8hXXcRf9wy3Hb3q8cZ/giphy.gif?cid=ecf05e47ftw6w93ciarlart29p8ntt3v73qvz7undi9zhzg7&ep=v1_gifs_related&rid=giphy.gif&ct=g)
+---
 
 ## 🚀 About Me
 
