@@ -1,5 +1,5 @@
 
-<h1 align="center">👾 Hey, I'm anonwincy! </h1>
+<h1 align="center">👾 Hey, I'm Wincy Wastn! </h1>
 <p align="center">
   <img src="#" width="400px">
 </p>
