@@ -1,7 +1,7 @@
 
 <h1 align="center">👾 Hey, I'm anonwincy! </h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif?cid=790b7611xqzgqs8kyw15df7vuwnda0bhkyzm4joejav1llwu&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400px">
+  <img src="#" width="400px">
 </p>
 
 ---
