@@ -5,14 +5,11 @@
 </p>
 
 ---
-
-<p align="center"; text-align="center";>
 ## 🚀 About Me
 🔹 **Cyber Security Specialist | Ethical Hacker | Frontend Developer**  
 🔹 Expert in **Facebook Security, Forex/Crypto Trading**  
 🔹 Passionate about **Automation, AI & Trading Bots**  
 🔹 Helping people stay safe online since **2015**  
-</p>
 ---
 
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anonwincy)
