@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 🔹 **Cyber Security Specialist | Ethical Hacker | Frontend Developer**  
-🔹 Expert in **Facebook Security & Account Recovery**  
+🔹 Expert in **Facebook Security, Forex/Crypto Trading**  
 🔹 Passionate about **Automation, AI & Trading Bots**  
 🔹 Helping people stay safe online since **2015**  
 
