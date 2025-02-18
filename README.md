@@ -12,8 +12,6 @@
 🔹 Helping people stay safe online since **2015**  
 ---
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anonwincy)
-
 ## 🛠 Tech Stack & Skills
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -36,24 +34,18 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anonwincy&theme=radical)
 
 ## 🖥 Projects & Portfolio
+---
 
-### Project 1: Cyber Defender
-![Project 1](https://your-project-image-url-here)
-**Description:** A powerful tool for network security analysis and threat detection.
-**Tech Stack:** Python, Flask, Docker
-**Repo:** [GitHub Link](#)
-
-### Project 2: AI Trading Bot
-![Project 2](https://your-project-image-url-here)
-**Description:** An intelligent trading bot using machine learning algorithms.
-**Tech Stack:** Python, TensorFlow, Docker
-**Repo:** [GitHub Link](#)
+## 🎯 Latest Projects
+- 🚀 **[Facebook Security Bot](@)** – Automated account recovery tool Cooming Soon...
+- 🔥 **[Anonymous Vibes BD | Pink Ddos](https://github.com/anonwincy/anon-vibes-bd)** – A powerful Ddos tool
+- 💹 **[Trading Bot AI](#)** – AI-powered Crypto & Forex trading automation Cooming Soon...
 
 ## 🌐 Socials & Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anonwincy)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/anonwincy)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anonwincy@example.com)
+[![LinkedIn](https://img.shields.io/badge/-Instagram-0077B5?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram/anonwincy)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://facebook.com/anonwincy)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anoncod3r@hotmail.com)
 
 [![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/anonwincy)
 
@@ -119,12 +111,6 @@ Thanks for visiting! 😄
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anonwincy&theme=radical&no-bg=true&no-frame=true&column=3)
 
----
-
-## 🎯 Latest Projects
-- 🚀 **[Facebook Security Bot](https://github.com/anonwincy/fb-security-bot)** – Automated account recovery tool
-- 🔥 **[Anonymous Vibes BD](https://github.com/anonwincy/anon-vibes-bd)** – Privacy & security research hub
-- 💹 **[Trading Bot AI](https://github.com/anonwincy/trading-bot-ai)** – AI-powered stock trading automation
 
 ---
 
