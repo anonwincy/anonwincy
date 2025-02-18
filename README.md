@@ -1,6 +1,6 @@
 <h1 align="center">👾 Hey, I'm anonwincy! </h1>
 <p align="center">
-  <img src="https://your-image-url.com" width="400px">
+  <img src="https://moewalls.com/wp-content/uploads/2025/02/spider-man-x-venom-thumb-728x410.jpg" width="400px">
 </p>
 
 ---
