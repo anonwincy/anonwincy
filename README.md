@@ -38,53 +38,8 @@
 
 ## 🎯 Latest Projects
 - 🚀 **[Facebook Security Bot](@)** – Automated account recovery tool Cooming Soon...
-- 🔥 **[Anonymous Vibes BD | Pink Ddos](https://github.com/anonwincy/anon-vibes-bd)** – A powerful Ddos tool
+- 🔥 **[Anonymous Vibes BD | Pink Ddos](https://github.com/anonwincy/Pink-Ddos)** – A powerful Ddos tool
 - 💹 **[Trading Bot AI](#)** – AI-powered Crypto & Forex trading automation Cooming Soon...
-
-## 🌐 Socials & Contact
-
-[![LinkedIn](https://img.shields.io/badge/-Instagram-0077B5?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram/anonwincy)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://facebook.com/anonwincy)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anoncod3r@hotmail.com)
-
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/anonwincy)
-
-## 🎨 Extras
-
-![Live Clock](https://img.shields.io/badge/Dynamic%20Clock-15:39:30%20UTC-FF5722?style=flat-square&logo=clock)
-![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-```bash
-$ whoami
-anonwincy
-$ date
-2025-02-18
-```
-
-Thanks for visiting! 😄
-
-
-
-
-
-
-
-
-
-
-
-<h1 align="center">👾 Hey, I'm anonwincy! </h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif?cid=790b7611xqzgqs8kyw15df7vuwnda0bhkyzm4joejav1llwu&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400px">
-</p>
-
----
-
-## 🚀 About Me
-🔹 **Cyber Security Specialist | Ethical Hacker | Frontend Developer**  
-🔹 Expert in **Facebook Security & Account Recovery**  
-🔹 Passionate about **Automation, AI & Trading Bots**  
-🔹 Helping people stay safe online since **2015**  
 
 ---
 
