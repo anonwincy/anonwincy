@@ -6,15 +6,14 @@
 
 ---
 
-## 🚀 About Me
 
-```diff
-- Cyber Security Enthusiast
-- Ethical Hacking
-- Frontend Development
-- AI/ML Explorer
-- Trading Bot Developer
-```
+## 🚀 About Me
+🔹 **Cyber Security Specialist | Ethical Hacker | Frontend Developer**  
+🔹 Expert in **Facebook Security & Account Recovery**  
+🔹 Passionate about **Automation, AI & Trading Bots**  
+🔹 Helping people stay safe online since **2015**  
+
+---
 
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anonwincy)
 
