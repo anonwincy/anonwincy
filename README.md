@@ -27,12 +27,6 @@
 
 ![Proficiency](https://github-readme-stats.vercel.app/api/top-langs/?username=anonwincy&layout=compact&theme=radical)
 
-## 📊 GitHub Stats & Contributions
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anonwincy&show_icons=true&theme=radical)
-![Contribution Heatmap](https://activity-graph.herokuapp.com/graph?username=anonwincy&theme=react-dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anonwincy&theme=radical)
-
 ## 🖥 Projects & Portfolio
 ---
 
