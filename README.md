@@ -33,6 +33,7 @@
 ## 🎯 Latest Projects
 - 🚀 **[Forex And Crypto Calculator](https://github.com/anonwincy/XAUUUSD-Profit-Calculator)** – Automated Forex And Crypto Major Currency Calculator
 - 🔥 **[Anonymous Vibes BD | Pink Ddos](https://github.com/anonwincy/Pink-Ddos)** – A powerful Ddos tool
+- 🔥 **[Anonymous Vibes BD | Web Scanner](https://github.com/anonwincy/webscanner)** – Web Scanning & Attacking
 - 💹 **[Trading Bot AI](#)** – AI-powered Crypto & Forex trading automation Cooming Soon...
 
 ---
