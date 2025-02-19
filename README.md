@@ -31,7 +31,7 @@
 ---
 
 ## 🎯 Latest Projects
-- 🚀 **[Facebook Security Bot](@)** – Automated account recovery tool Cooming Soon...
+- 🚀 **[Forex And Crypto Calculator](https://github.com/anonwincy/XAUUUSD-Profit-Calculator)** – Automated Forex And Crypto Major Currency Calculator
 - 🔥 **[Anonymous Vibes BD | Pink Ddos](https://github.com/anonwincy/Pink-Ddos)** – A powerful Ddos tool
 - 💹 **[Trading Bot AI](#)** – AI-powered Crypto & Forex trading automation Cooming Soon...
 
