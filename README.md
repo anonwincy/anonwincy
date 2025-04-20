@@ -57,5 +57,5 @@
 
 ## 🌍 Contact with ME:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/anonwincy)
-[![Instagram](https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/anonwincy)
+[![Instagram](https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/suckistwincy)
 [![Telegram](https://img.shields.io/badge/Telegram-100000?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/anonwincy)
