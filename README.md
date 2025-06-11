@@ -6,10 +6,10 @@
 
 ---
 ## 🚀 About Me
-🔹 **Cyber Security Specialist | Gray Hat Hacker | Frontend Developer**  
+🔹 **Cyber Security Specialist | Grey Hat Hacker | Frontend Developer**  
 🔹 Expert in **Facebook Security, Forex/Crypto Trading**  
 🔹 Passionate about **Automation, AI & Trading Bots dev**  
-🔹 Helping people stay safe online since **2015**  
+🔹 Helping people stay safe online since **2016**  
 ---
 
 ## 🛠 Tech Stack & Skills
